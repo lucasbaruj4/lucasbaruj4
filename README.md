@@ -10,7 +10,7 @@ I’m a second-year Business Informatics student at Universidad Paraguayo Aleman
 - 🎯 **Career Goal**: To apply my technical knowledge in software engineering and business systems to create impactful solutions
 
 ## 💼 Projects:
-1. **[Language Learning App](https://github.com/lucasbaruja4/language-learning-app)**: Developed using Java Swing and SQL databases
+1. **[Language Learning App](https://github.com/lucasbaruj4/language-learning-app)**: Developed using Java Swing and SQL databases
 2. **Catalog Web Page**: Full stack development using Quasar framework, HTML, CSS, and JavaScript
 3. **Android Application**: Currently in development, using Java
 
