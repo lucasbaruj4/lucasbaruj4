@@ -11,7 +11,7 @@ I’m a second-year Business Informatics student at Universidad Paraguayo Aleman
 
 ## 💼 Projects:
 1. **[Language Learning App](https://github.com/lucasbaruj4/language-learning-app)**: Developed using Java Swing and SQL databases
-2. **Catalog Web Page**: Full stack development using Quasar framework, HTML, CSS, and JavaScript
+2. **[Catalog Web Page](https://github.com/lucasbaruj4/catalog-website)**: Full stack development using Quasar framework, HTML, CSS, and JavaScript
 3. **Android Application**: Currently in development, using Java
 
 ## 📫 Get in Touch:
