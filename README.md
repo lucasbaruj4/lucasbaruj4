@@ -5,14 +5,14 @@ I’m a second-year Business Informatics student at Universidad Paraguayo Aleman
 ## 🌟 About Me:
 - 🎓 **Education**: Business Informatics (TIE) at Universidad Paraguayo Alemana
 - 🔧 **Skills**: Java, SQL, Vue.js, Quasar, Flask, Android Studio, HTML, CSS, JavaScript
-- 🚀 **Current Project**: Developing an Android application using Java
-- 💻 **Interests**: Artificial Intelligence, software engineering, and web development
+- 🚀 **Current Project**: Working in different data science projects
+- 💻 **Interests**: Artificial Intelligence, software engineering, and data science
 - 🎯 **Career Goal**: To apply my technical knowledge in software engineering and business systems to create impactful solutions
 
 ## 💼 Projects:
-1. **Android Application**: Currently in development, using Android Studio with Java
-2. **[Catalog Web Page](https://github.com/lucasbaruj4/catalog-website)**: Full stack development using Quasar framework, HTML, CSS, and JavaScript
-3. **[Language Learning App](https://github.com/lucasbaruj4/language-learning-app)**: Developed using Java Swing and SQL databases
+1. **[FreeTime](https://github.com/lucasbaruj4/freetime)**: Android application for time management, developed using Java and MVP architecture.
+2. **[Catalog Web Page](https://github.com/lucasbaruj4/catalog-website)**: Full stack development using Quasar framework, HTML, CSS, and JavaScript.
+3. **[Language Learning App](https://github.com/lucasbaruj4/language-learning-app)**: Developed using Java Swing and SQL databases.
 
 ## 📫 Get in Touch:
 - **LinkedIn**: [Lucas Baruja](https://www.linkedin.com/in/lucas-baruja-581064332/)
