@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Baruja!
 
-I’m a second-year Business Informatics student at Universidad Paraguayo Alemana, passionate about the integral development of Artificial Intelligence, web development, databases, and everything related to programming. I also enjoy learning musical instruments as a hobby, which helps me apply creativity and discipline to problem-solving. I’m currently excited to keep learning about the world of computer science, with the ambition of contributing to positive change through technology.
+I’m a third-year Business Informatics student at Universidad Paraguayo Alemana, passionate about the integral development of Artificial Intelligence, web development, databases, and everything related to programming. I also enjoy learning musical instruments as a hobby, which helps me apply creativity and discipline to problem-solving. I’m currently excited to keep learning about the world of computer science, with the ambition of contributing to positive change through technology.
 
 ## 🌟 About Me:
 - 🎓 **Education**: Business Informatics (TIE) at Universidad Paraguayo Alemana
