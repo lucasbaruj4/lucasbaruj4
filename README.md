@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Baruja!
 
-I'm a third-year **Business Informatics** student at Universidad Paraguayo Alemana, with a deep passion for the comprehensive development of **Artificial Intelligence**, web development, databases, and everything related to programming. My enthusiasm stems from how technology, especially AI, can drive positive change in the world. As a hobby, I also enjoy learning musical instruments, which helps me apply creativity and discipline to problem-solving.
+I'm a third-year **Business Informatics** student at Universidad Paraguayo Alemana, with a deep passion for the comprehensive development of **Artificial Intelligence**. My enthusiasm stems from how technology, especially AI, can drive positive change in the world. As a hobby, I also enjoy learning musical instruments, which helps me apply creativity and discipline to problem-solving.
 
 Currently, I am undertaking an **exchange semester with an internship in Germany**, where I'm immersed in projects that strengthen my experience in the fields of data science and software engineering.
 
