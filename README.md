@@ -8,19 +8,17 @@ Currently, I am undertaking an **exchange semester with an internship in Germany
 
 ## 🌟 About Me:
 - 🎓 **Education**: Business Informatics (TIE) at Universidad Paraguayo Alemana
-- ⚙️ **Focus**: **AI Engineering**, Data Science, and Software Development
-- 🔧 **Technical Skills**: Python, Java, SQL, Vue.js, Quasar, Flask, Android Studio, HTML, CSS, JavaScript
-- 🚀 **Current Experience**: Interning in Germany, focused on data science projects.
-- 🎯 **Career Goal**: To apply my technical knowledge in software engineering and business systems to design and implement impactful and transformative AI solutions.
+- ⚙️ **Focus**: **AI Engineering**
+- 🔧 **Technical Skills**: Python, SQL, JavaScript, GenAI, ML
+- 🚀 **Current Experience**: Interning in Germany, focused on learning the craft of AI Engineering.
+- 🎯 Career Goal: To leverage my technical knowledge in AI Engineering and business systems to design, develop, and deploy impactful and transformative AI solutions.
 
 ---
 
 ## 💼 Featured Projects:
-Here are some of my most relevant projects that showcase my development skills and interest in various areas of computer science:
+Explore a comprehensive overview of my work, including detailed descriptions of my projects and their impact, by visiting my personal portfolio:
 
-1.  **[FreeTime](https://github.com/lucasbaruj4/freetime)**: Android application for time management, developed using Java and MVP architecture.
-2.  **[Catalog Web Page](https://github.com/lucasbaruj4/catalog-website)**: Full stack development using Quasar framework, HTML, CSS, and JavaScript.
-3.  **[Language Learning App](https://github.com/lucasbaruj4/language-learning-app)**: Developed using Java Swing and SQL databases.
+[My Portfolio](https://lucasbaruj4.github.io/lucasbaruja.github.io/)
 
 ---
 
