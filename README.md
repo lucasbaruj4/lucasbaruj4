@@ -9,7 +9,7 @@ Currently, I am undertaking an **exchange semester with an internship in Germany
 ## 🌟 About Me:
 - 🎓 **Education**: Business Informatics (TIE) at Universidad Paraguayo Alemana
 - ⚙️ **Focus**: **AI Engineering**, Data Science, and Software Development
-- 🔧 **Technical Skills**: Java, SQL, Vue.js, Quasar, Flask, Android Studio, HTML, CSS, JavaScript
+- 🔧 **Technical Skills**: Python, Java, SQL, Vue.js, Quasar, Flask, Android Studio, HTML, CSS, JavaScript
 - 🚀 **Current Experience**: Interning in Germany, focused on data science projects.
 - 🎯 **Career Goal**: To apply my technical knowledge in software engineering and business systems to design and implement impactful and transformative AI solutions.
 
