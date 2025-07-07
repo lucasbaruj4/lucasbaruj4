@@ -18,7 +18,7 @@ Currently, I am undertaking an **exchange semester with an internship in Germany
 ## 💼 Featured Projects:
 Explore a comprehensive overview of my work, including detailed descriptions of my projects and their impact, by visiting my personal portfolio:
 
-[My Portfolio](https://lucasbaruj4.github.io/lucasbaruja.github.io/)
+ - [My Portfolio](https://lucasbaruj4.github.io/lucasbaruja.github.io/)
 
 ---
 
