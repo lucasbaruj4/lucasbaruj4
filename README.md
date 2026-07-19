@@ -1,5 +1,1 @@
-# I build AI Systems, currently learning rust 🦀
-# [My Portfolio](https://bashfoliovercel.vercel.app/)
-# **LinkedIn**: [Lucas Baruja](https://www.linkedin.com/in/lucas-baruja-581064332/)
-# **Email**: barujalucas0@gmail.com
-
+# "AI Engineer", "Agentic Engineer", "Vibe Engineer", "Imagination Engineer", "Engineering Engineer" or whatever I might be called tomorrow
